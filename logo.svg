@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-label="Derivative Work: a note under a struck-through sparkle">
+  <title>Derivative Work</title>
+  <circle cx="90" cy="90" r="90" fill="#121212"/>
+  <circle cx="90" cy="90" r="83" fill="none" stroke="#C8321F" stroke-width="5"/>
+  <path d="M90 20 Q91.9 34.1 106 36 Q91.9 37.9 90 52 Q88.1 37.9 74 36 Q88.1 34.1 90 20 Z" fill="#FFFFFF"/>
+  <line x1="70" y1="42" x2="110" y2="30" stroke="#C8321F" stroke-width="4.5" stroke-linecap="round"/>
+  <g transform="translate(60 56) scale(2.1)" fill="#FFFFFF">
+    <ellipse cx="9" cy="37" rx="7.5" ry="5.2" transform="rotate(-22 9 37)"/>
+    <rect x="14.02" y="3" width="2.2" height="32.6"/>
+    <path d="M15.9 3 C16.92 11 24.92 13.5 22.92 25 C21.92 18.5 18.92 15.5 15.9 14.5 Z"/>
+  </g>
+</svg>
