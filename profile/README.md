@@ -20,7 +20,7 @@ This organization holds the source behind the videos, so anyone can see exactly 
 | Repository | What's in it | Status |
 |---|---|---|
 | [`ghost-in-the-machine`](https://github.com/Derivative-Work/ghost-in-the-machine) | Lyrics, generation prompts, shot lists, and the code that composites and renders [Ghost in the Machine](https://www.youtube.com/watch?v=6RcYUoG1t0I) | Released |
-| [`folks-like-us`](https://github.com/Derivative-Work/folks-like-us) | Same, for [Folks Like Us](https://www.youtube.com/watch?v=pwrhLekxqpI) (AI-generated satire) | Active |
+| [`folks-like-us`](https://github.com/Derivative-Work/folks-like-us) | Same, for [Folks Like Us](https://www.youtube.com/watch?v=pwrhLekxqpI) (AI-generated satire) | Released |
 | [`music-deslop`](https://github.com/Derivative-Work/music-deslop) | A post-filter that restores the transients and high-frequency detail that AI music generators smear | In development; release undecided |
 
 ## How each video was made
