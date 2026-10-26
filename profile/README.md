@@ -21,7 +21,8 @@ This organization holds the source behind the videos, so anyone can see exactly 
 |---|---|---|
 | [`ghost-in-the-machine`](https://github.com/Derivative-Work/ghost-in-the-machine) | Lyrics, generation prompts, shot lists, and the code that composites and renders [Ghost in the Machine](https://www.youtube.com/watch?v=6RcYUoG1t0I) | Released 2026-10-18 |
 | [`folks-like-us`](https://github.com/Derivative-Work/folks-like-us) | Same, for [Folks Like Us](https://www.youtube.com/watch?v=pwrhLekxqpI) (AI-generated satire) | Released 2026-10-21 |
-| [`sandbox-rhapsody`](https://github.com/Derivative-Work/sandbox-rhapsody) | Same, for Sandbox Rhapsody | In progress |
+| [`sandbox-rhapsody`](https://github.com/Derivative-Work/sandbox-rhapsody) | Same, for [Sandbox Rhapsody](https://www.youtube.com/watch?v=zq79yQ3164w) | Released 2026-10-24 |
+| [`not-yet`](https://github.com/Derivative-Work/not-yet) | Same, for Not Yet | In progress |
 | [`music-deslop`](https://github.com/Derivative-Work/music-deslop) | A post-filter that restores the transients and high-frequency detail that AI music generators smear | In development; release undecided |
 
 ## How each video was made
