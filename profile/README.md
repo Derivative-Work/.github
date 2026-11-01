@@ -20,11 +20,11 @@ This organization holds the source behind the videos, so anyone can see exactly 
 | Repository | What's in it | Status |
 |---|---|---|
 | [`ghost-in-the-machine`](https://github.com/Derivative-Work/ghost-in-the-machine) | Lyrics, generation prompts, shot lists, and the code that composites and renders [Ghost in the Machine](https://www.youtube.com/watch?v=6RcYUoG1t0I) | Released 2026-10-18 |
-| [`folks-like-us`](https://github.com/Derivative-Work/folks-like-us) | Same, for [Folks Like Us](https://www.youtube.com/watch?v=pwrhLekxqpI) (AI-generated satire) | Released 2026-10-21 |
+| [`folks-like-us`](https://github.com/Derivative-Work/folks-like-us) | Same, for [Folks Like Us](https://www.youtube.com/watch?v=pwrhLekxqpI) (AI-generated satire, not a campaign ad) | Released 2026-10-21 |
 | [`sandbox-rhapsody`](https://github.com/Derivative-Work/sandbox-rhapsody) | Same, for [Sandbox Rhapsody](https://www.youtube.com/watch?v=zq79yQ3164w) | Released 2026-10-24 |
 | [`not-yet`](https://github.com/Derivative-Work/not-yet) | Same, for [Not Yet](https://www.youtube.com/watch?v=1G2CS3i1cPE) | Released 2026-10-27 |
 | [`nine-hundred-acres`](https://github.com/Derivative-Work/nine-hundred-acres) | Same, for [Nine Hundred Acres (The Hum)](https://www.youtube.com/watch?v=7OT7Fb6LcP8) | Released 2026-10-31 |
-| [`buy-it-on-margin`](https://github.com/Derivative-Work/buy-it-on-margin) | Same, for [Buy It on Margin](https://www.youtube.com/watch?v=2bp3_BMylKY) | Released 2026-11-01 |
+| [`buy-it-on-margin`](https://github.com/Derivative-Work/buy-it-on-margin) | Same, for [Buy It on Margin](https://www.youtube.com/watch?v=2bp3_BMylKY) (AI-generated satire, not investment advice) | Released 2026-11-01 |
 | [`music-deslop`](https://github.com/Derivative-Work/music-deslop) | A post-filter that restores the transients and high-frequency detail that AI music generators smear | In development; release undecided |
 
 ## How each video was made
