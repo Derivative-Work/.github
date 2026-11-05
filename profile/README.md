@@ -25,6 +25,7 @@ This organization holds the source behind the videos, so anyone can see exactly 
 | [`not-yet`](https://github.com/Derivative-Work/not-yet) | Same, for [Not Yet](https://www.youtube.com/watch?v=1G2CS3i1cPE) | Released 2026-10-27 |
 | [`nine-hundred-acres`](https://github.com/Derivative-Work/nine-hundred-acres) | Same, for [Nine Hundred Acres (The Hum)](https://www.youtube.com/watch?v=7OT7Fb6LcP8) | Released 2026-10-31 |
 | [`buy-it-on-margin`](https://github.com/Derivative-Work/buy-it-on-margin) | Same, for [Buy It on Margin](https://www.youtube.com/watch?v=2bp3_BMylKY) (AI-generated satire, not investment advice) | Released 2026-11-01 |
+| [`read-only`](https://github.com/Derivative-Work/read-only) | Same, for [Read Only](https://www.youtube.com/watch?v=DsjWj7C0g1k) (AI-generated satire, not investment advice) | Released 2026-11-04 |
 | [`music-deslop`](https://github.com/Derivative-Work/music-deslop) | A post-filter that restores the transients and high-frequency detail that AI music generators smear | In development; release undecided |
 
 ## How each video was made
