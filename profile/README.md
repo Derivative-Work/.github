@@ -27,7 +27,7 @@ This organization holds the source behind the videos, so anyone can see exactly 
 | [`buy-it-on-margin`](https://github.com/Derivative-Work/buy-it-on-margin) | Same, for [Buy It on Margin](https://www.youtube.com/watch?v=2bp3_BMylKY) (AI-generated satire, not investment advice) | Released 2026-11-01 |
 | [`read-only`](https://github.com/Derivative-Work/read-only) | Same, for [Read Only](https://www.youtube.com/watch?v=DsjWj7C0g1k) (AI-generated satire, not investment advice) | Released 2026-11-04 |
 | [`default-on`](https://github.com/Derivative-Work/default-on) | Same, for [Default On](https://www.youtube.com/watch?v=LRdWKtGsklg) (AI-generated satire, not a children's cartoon) | Released 2026-11-10 |
-| [`distillation-job`](https://github.com/Derivative-Work/distillation-job) | Same, for [The Distillation Job](https://www.youtube.com/watch?v=3HDy22gg26c) (AI-generated satire, a dramatization of allegations) | Scheduled for release 2026-11-11 |
+| [`distillation-job`](https://github.com/Derivative-Work/distillation-job) | Same, for [The Distillation Job](https://www.youtube.com/watch?v=3HDy22gg26c) (AI-generated satire, a dramatization of allegations) | Released 2026-11-11 |
 | [`music-deslop`](https://github.com/Derivative-Work/music-deslop) | A post-filter that restores the transients and high-frequency detail that AI music generators smear | In development; release undecided |
 
 ## How each video was made
