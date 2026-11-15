@@ -28,6 +28,7 @@ This organization holds the source behind the videos, so anyone can see exactly 
 | [`read-only`](https://github.com/Derivative-Work/read-only) | Same, for [Read Only](https://www.youtube.com/watch?v=DsjWj7C0g1k) (AI-generated satire, not investment advice) | Released 2026-11-04 |
 | [`default-on`](https://github.com/Derivative-Work/default-on) | Same, for [Default On](https://www.youtube.com/watch?v=LRdWKtGsklg) (AI-generated satire, not a children's cartoon) | Released 2026-11-10 |
 | [`distillation-job`](https://github.com/Derivative-Work/distillation-job) | Same, for [The Distillation Job](https://www.youtube.com/watch?v=3HDy22gg26c) (AI-generated satire, a dramatization of allegations) | Released 2026-11-11 |
+| [`ever-present`](https://github.com/Derivative-Work/ever-present) | Same, for [Ever Present](https://www.youtube.com/watch?v=0SLvIexbu38) (AI-generated satire, not church content). Repository kept private: a ready-made kit for staging a fake worship service would do more harm than good. | Released 2026-11-15 |
 | [`music-deslop`](https://github.com/Derivative-Work/music-deslop) | A post-filter that restores the transients and high-frequency detail that AI music generators smear | In development; release undecided |
 
 ## How each video was made
