@@ -54,7 +54,7 @@ The model is trained only on permissively licensed audio by default. The trainin
 ## Licensing
 
 - **Code:** [MIT](https://mit-license.org/), unless a repository says otherwise.
-- **Music, lyrics and video:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), where we hold the rights, unless a repository or video says otherwise. Purely AI-generated material may not be copyrightable, generator output is subject to each generator's terms, and third-party material shown in videos (such as screen recordings of real services and public filings) is not covered.
+- **Music, lyrics and video:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), where we hold the rights or unless a video says otherwise. Purely AI-generated material may not be copyrightable, generator output is subject to each generator's terms, and third-party material shown in videos (such as screen recordings of real services and public filings) is not covered.
 - **Model weights:** to be decided at release, along with the release decision above.
 
 It is, after all, Derivative Work.
