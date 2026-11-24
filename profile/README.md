@@ -31,7 +31,7 @@ This organization holds the source behind the videos, so anyone can see exactly 
 | [`ever-present`](https://github.com/Derivative-Work/ever-present) | Same, for [Ever Present](https://www.youtube.com/watch?v=0SLvIexbu38) (AI-generated satire, not church content). Repository kept private: a ready-made kit for staging a fake worship service would do more harm than good. | Released 2026-11-15 |
 | [`all-systems-operational`](https://github.com/Derivative-Work/all-systems-operational) | Same, for [All Systems Operational](https://www.youtube.com/watch?v=J7RzSh6_usU) (AI-generated satire, a dramatization of an incident response) | Released 2026-11-17 |
 | [`share-the-shares`](https://github.com/Derivative-Work/share-the-shares) | Same, for [Share the Shares](https://www.youtube.com/watch?v=YpJn6DwTLlk) (AI-generated satire, not investment advice) | Released 2026-11-19 |
-| [`effective-immediately`](https://github.com/Derivative-Work/effective-immediately) | Same, for Effective Immediately (AI-generated satire, not investment advice) | Planned release 2026-11-24 |
+| [`effective-immediately`](https://github.com/Derivative-Work/effective-immediately) | Same, for Effective Immediately (AI-generated satire, not investment advice) | Released 2026-11-24 |
 | [`music-deslop`](https://github.com/Derivative-Work/music-deslop) | A post-filter that restores the transients and high-frequency detail that AI music generators smear | In development; release undecided |
 
 ## How each video was made
